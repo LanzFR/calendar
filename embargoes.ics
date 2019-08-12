@@ -1,0 +1,629 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//OECD Embargo Calendar//NONSGML v1.0//EN
+BEGIN:VEVENT
+UID:10.1787/734c25f4-end3e117
+SUMMARY:Making Dispute Resolution More Effective
+  – MAP Peer Review Report, Belgium (Stag
+ e 2) - Inclusive Framework on BEPS: Acti
+ on 14
+DESCRIPTION:*Making Dispute Resolution More Effectiv
+ e – MAP Peer Review Report, Belgium (Sta
+ ge 2) - Inclusive Framework on BEPS: Act
+ ion 14*\n\nDirectorate: Centre for Tax P
+ olicy and Administration\nLanguage: Engl
+ ish\nDOI: https://doi.org/10.1787/734c25
+ f4-en\nPublication type: Book\nReleased 
+ as: Paperback, PDF\n\nEmbargo date/time:
+  Tuesday, 13 August 2019, 9:00 (GMT)\n\n
+ \niLibrary export: Friday, 2 August 2019
+ , 20:29 (GMT)\nFreepreview export: Frida
+ y, 2 August 2019, 19:15 (GMT)\nOECD.org 
+ export: Sunday, 11 August 2019, 11:46 (G
+ MT)\nFTI loaded: ✓\n\nFor more informati
+ on see: https://github.com/oecd/embargo-
+ calendar/blob/master/embargoes-by-public
+ ation.md.\n\nPlease note: This informati
+ on was correct as of this morning at 11:
+ 29, it is updated each night; therefore 
+ any subsequent updates may not yet be vi
+ sible here. Also, please be aware that t
+ he different released media (PDF, HTML, 
+ etc.) are not necessarily released at th
+ e same time. For complete and up-to-date
+  information see here: http://kappa.oecd
+ .org/v3/search?term=734c25f4-en.
+DTSTAMP:20190812T114729Z
+DTSTART:20190813T090000Z
+DTEND:20190813T091500Z
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-PT24H
+REPEAT:1
+DURATION:PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Making Dispute Resolution More
+  Effective – MAP Peer Review Report, Bel
+ gium (Stage 2) - Inclusive Framework on 
+ BEPS: Action 14
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:10.1787/305147e9-end3e228
+SUMMARY:Making Dispute Resolution More Effective
+  – MAP Peer Review Report, United States
+  (Stage 2) - Inclusive Framework on BEPS
+ : Action 14
+DESCRIPTION:*Making Dispute Resolution More Effectiv
+ e – MAP Peer Review Report, United State
+ s (Stage 2) - Inclusive Framework on BEP
+ S: Action 14*\n\nDirectorate: Centre for
+  Tax Policy and Administration\nLanguage
+ : English\nDOI: https://doi.org/10.1787/
+ 305147e9-en\nPublication type: Book\nRel
+ eased as: Paperback, PDF\n\nEmbargo date
+ /time: Tuesday, 13 August 2019, 9:00 (GM
+ T)\n\n\niLibrary export: Friday, 2 Augus
+ t 2019, 20:29 (GMT)\nFreepreview export:
+  never\nOECD.org export: Friday, 2 Augus
+ t 2019, 18:33 (GMT)\nFTI loaded: ✓\n\nFo
+ r more information see: https://github.c
+ om/oecd/embargo-calendar/blob/master/emb
+ argoes-by-publication.md.\n\nPlease note
+ : This information was correct as of thi
+ s morning at 11:29, it is updated each n
+ ight; therefore any subsequent updates m
+ ay not yet be visible here. Also, please
+  be aware that the different released me
+ dia (PDF, HTML, etc.) are not necessaril
+ y released at the same time. For complet
+ e and up-to-date information see here: h
+ ttp://kappa.oecd.org/v3/search?term=3051
+ 47e9-en.
+DTSTAMP:20190812T114729Z
+DTSTART:20190813T090000Z
+DTEND:20190813T091500Z
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-PT24H
+REPEAT:1
+DURATION:PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Making Dispute Resolution More
+  Effective – MAP Peer Review Report, Uni
+ ted States (Stage 2) - Inclusive Framewo
+ rk on BEPS: Action 14
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:10.1787/cce92832-end3e393
+SUMMARY:Making Dispute Resolution More Effective
+  – MAP Peer Review Report, Netherlands (
+ Stage 2) - Inclusive Framework on BEPS: 
+ Action 14
+DESCRIPTION:*Making Dispute Resolution More Effectiv
+ e – MAP Peer Review Report, Netherlands 
+ (Stage 2) - Inclusive Framework on BEPS:
+  Action 14*\n\nDirectorate: Centre for T
+ ax Policy and Administration\nLanguage: 
+ English\nDOI: https://doi.org/10.1787/cc
+ e92832-en\nPublication type: Book\nRelea
+ sed as: Paperback, PDF\n\nEmbargo date/t
+ ime: Tuesday, 13 August 2019, 9:00 (GMT)
+ \n\n\niLibrary export: Friday, 2 August 
+ 2019, 20:29 (GMT)\nFreepreview export: F
+ riday, 2 August 2019, 19:15 (GMT)\nOECD.
+ org export: Sunday, 11 August 2019, 11:4
+ 6 (GMT)\nFTI loaded: ✓\n\nFor more infor
+ mation see: https://github.com/oecd/emba
+ rgo-calendar/blob/master/embargoes-by-pu
+ blication.md.\n\nPlease note: This infor
+ mation was correct as of this morning at
+  11:29, it is updated each night; theref
+ ore any subsequent updates may not yet b
+ e visible here. Also, please be aware th
+ at the different released media (PDF, HT
+ ML, etc.) are not necessarily released a
+ t the same time. For complete and up-to-
+ date information see here: http://kappa.
+ oecd.org/v3/search?term=cce92832-en.
+DTSTAMP:20190812T114729Z
+DTSTART:20190813T090000Z
+DTEND:20190813T091500Z
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-PT24H
+REPEAT:1
+DURATION:PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Making Dispute Resolution More
+  Effective – MAP Peer Review Report, Net
+ herlands (Stage 2) - Inclusive Framework
+  on BEPS: Action 14
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:10.1787/67dba2bb-end3e504
+SUMMARY:Making Dispute Resolution More Effective
+  – MAP Peer Review Report, Canada (Stage
+  2) - Inclusive Framework on BEPS: Actio
+ n 14
+DESCRIPTION:*Making Dispute Resolution More Effectiv
+ e – MAP Peer Review Report, Canada (Stag
+ e 2) - Inclusive Framework on BEPS: Acti
+ on 14*\n\nDirectorate: Centre for Tax Po
+ licy and Administration\nLanguage: Engli
+ sh\nDOI: https://doi.org/10.1787/67dba2b
+ b-en\nPublication type: Book\nReleased a
+ s: Paperback, PDF\n\nEmbargo date/time: 
+ Tuesday, 13 August 2019, 9:00 (GMT)\n\n\
+ niLibrary export: Friday, 2 August 2019,
+  20:29 (GMT)\nFreepreview export: Friday
+ , 2 August 2019, 19:15 (GMT)\nOECD.org e
+ xport: Sunday, 11 August 2019, 11:46 (GM
+ T)\nFTI loaded: ✓\n\nFor more informatio
+ n see: https://github.com/oecd/embargo-c
+ alendar/blob/master/embargoes-by-publica
+ tion.md.\n\nPlease note: This informatio
+ n was correct as of this morning at 11:2
+ 9, it is updated each night; therefore a
+ ny subsequent updates may not yet be vis
+ ible here. Also, please be aware that th
+ e different released media (PDF, HTML, e
+ tc.) are not necessarily released at the
+  same time. For complete and up-to-date 
+ information see here: http://kappa.oecd.
+ org/v3/search?term=67dba2bb-en.
+DTSTAMP:20190812T114729Z
+DTSTART:20190813T090000Z
+DTEND:20190813T091500Z
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-PT24H
+REPEAT:1
+DURATION:PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Making Dispute Resolution More
+  Effective – MAP Peer Review Report, Can
+ ada (Stage 2) - Inclusive Framework on B
+ EPS: Action 14
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:10.1787/77ab98a6-end3e561
+SUMMARY:Making Dispute Resolution More Effective
+  – MAP Peer Review Report, Switzerland (
+ Stage 2) - Inclusive Framework on BEPS: 
+ Action 14
+DESCRIPTION:*Making Dispute Resolution More Effectiv
+ e – MAP Peer Review Report, Switzerland 
+ (Stage 2) - Inclusive Framework on BEPS:
+  Action 14*\n\nDirectorate: Centre for T
+ ax Policy and Administration\nLanguage: 
+ English\nDOI: https://doi.org/10.1787/77
+ ab98a6-en\nPublication type: Book\nRelea
+ sed as: Paperback, PDF\n\nEmbargo date/t
+ ime: Tuesday, 13 August 2019, 9:00 (GMT)
+ \n\n\niLibrary export: Friday, 2 August 
+ 2019, 20:29 (GMT)\nFreepreview export: n
+ ever\nOECD.org export: Friday, 2 August 
+ 2019, 18:33 (GMT)\nFTI loaded: ✓\n\nFor 
+ more information see: https://github.com
+ /oecd/embargo-calendar/blob/master/embar
+ goes-by-publication.md.\n\nPlease note: 
+ This information was correct as of this 
+ morning at 11:29, it is updated each nig
+ ht; therefore any subsequent updates may
+  not yet be visible here. Also, please b
+ e aware that the different released medi
+ a (PDF, HTML, etc.) are not necessarily 
+ released at the same time. For complete 
+ and up-to-date information see here: htt
+ p://kappa.oecd.org/v3/search?term=77ab98
+ a6-en.
+DTSTAMP:20190812T114729Z
+DTSTART:20190813T090000Z
+DTEND:20190813T091500Z
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-PT24H
+REPEAT:1
+DURATION:PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Making Dispute Resolution More
+  Effective – MAP Peer Review Report, Swi
+ tzerland (Stage 2) - Inclusive Framework
+  on BEPS: Action 14
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:10.1787/4abab00d-end3e999
+SUMMARY:Recruiting Immigrant Workers: Canada 201
+ 9
+DESCRIPTION:*Recruiting Immigrant Workers: Canada 20
+ 19*\n\nDirectorate: Directorate for Empl
+ oyment, Labour and Social Affairs\nLangu
+ age: English\nDOI: https://doi.org/10.17
+ 87/4abab00d-en\nPublication type: Book\n
+ Released as: ePub, HTML, Paperback, PDF\
+ n\nEmbargo date/time: Tuesday, 13 August
+  2019, 13:00 (GMT)\n\n\niLibrary export:
+  Friday, 9 August 2019, 19:19 (GMT)\nFre
+ epreview export: Friday, 9 August 2019, 
+ 19:04 (GMT)\nOECD.org export: Sunday, 11
+  August 2019, 11:46 (GMT)\nFTI loaded: ✓
+ \n\nFor more information see: https://gi
+ thub.com/oecd/embargo-calendar/blob/mast
+ er/embargoes-by-publication.md.\n\nPleas
+ e note: This information was correct as 
+ of this morning at 11:29, it is updated 
+ each night; therefore any subsequent upd
+ ates may not yet be visible here. Also, 
+ please be aware that the different relea
+ sed media (PDF, HTML, etc.) are not nece
+ ssarily released at the same time. For c
+ omplete and up-to-date information see h
+ ere: http://kappa.oecd.org/v3/search?ter
+ m=4abab00d-en.
+DTSTAMP:20190812T114729Z
+DTSTART:20190813T130000Z
+DTEND:20190813T131500Z
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-PT24H
+REPEAT:1
+DURATION:PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Recruiting Immigrant Workers: 
+ Canada 2019
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:10.1787/c79badcc-end3e2095
+SUMMARY:Financial Incentives to Promote Adult Le
+ arning in Australia
+DESCRIPTION:*Financial Incentives to Promote Adult L
+ earning in Australia*\n\nDirectorate: Di
+ rectorate for Employment, Labour and Soc
+ ial Affairs\nLanguage: English\nDOI: htt
+ ps://doi.org/10.1787/c79badcc-en\nPublic
+ ation type: Book\nReleased as: ePub, HTM
+ L, Paperback, PDF\n\nEmbargo date/time: 
+ Thursday, 22 August 2019, 8:00 (GMT)\n\n
+ \niLibrary export: Tuesday, 23 July 2019
+ , 19:23 (GMT)\nFreepreview export: Tuesd
+ ay, 23 July 2019, 19:09 (GMT)\nOECD.org 
+ export: Tuesday, 23 July 2019, 18:22 (GM
+ T)\nFTI loaded: ✓\n\nFor more informatio
+ n see: https://github.com/oecd/embargo-c
+ alendar/blob/master/embargoes-by-publica
+ tion.md.\n\nPlease note: This informatio
+ n was correct as of this morning at 11:2
+ 9, it is updated each night; therefore a
+ ny subsequent updates may not yet be vis
+ ible here. Also, please be aware that th
+ e different released media (PDF, HTML, e
+ tc.) are not necessarily released at the
+  same time. For complete and up-to-date 
+ information see here: http://kappa.oecd.
+ org/v3/search?term=c79badcc-en.
+DTSTAMP:20190812T114729Z
+DTSTART:20190822T080000Z
+DTEND:20190822T081500Z
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-PT48H
+REPEAT:1
+DURATION:PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Financial Incentives to Promot
+ e Adult Learning in Australia
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:10.1787/f9bf1157-end3e2697
+SUMMARY:Country-by-Country Reporting – Compilati
+ on of Peer Review Reports (Phase 2) - In
+ clusive Framework on BEPS: Action 13
+DESCRIPTION:*Country-by-Country Reporting – Compilat
+ ion of Peer Review Reports (Phase 2) - I
+ nclusive Framework on BEPS: Action 13*\n
+ \nDirectorate: Centre for Tax Policy and
+  Administration\nLanguage: English\nDOI:
+  https://doi.org/10.1787/f9bf1157-en\nPu
+ blication type: Book\nReleased as: PDF\n
+ \nEmbargo date/time: Thursday, 22 August
+  2019, 9:00 (GMT)\n\n\niLibrary export: 
+ Friday, 2 August 2019, 20:29 (GMT)\nFree
+ preview export: never\nOECD.org export: 
+ Wednesday, 10 July 2019, 18:20 (GMT)\nFT
+ I loaded: ✗\n\nFor more information see:
+  https://github.com/oecd/embargo-calenda
+ r/blob/master/embargoes-by-publication.m
+ d.\n\nPlease note: This information was 
+ correct as of this morning at 11:29, it 
+ is updated each night; therefore any sub
+ sequent updates may not yet be visible h
+ ere. Also, please be aware that the diff
+ erent released media (PDF, HTML, etc.) a
+ re not necessarily released at the same 
+ time. For complete and up-to-date inform
+ ation see here: http://kappa.oecd.org/v3
+ /search?term=f9bf1157-en.
+DTSTAMP:20190812T114729Z
+DTSTART:20190822T090000Z
+DTEND:20190822T091500Z
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-PT48H
+REPEAT:1
+DURATION:PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Country-by-Country Reporting –
+  Compilation of Peer Review Reports (Pha
+ se 2) - Inclusive Framework on BEPS: Act
+ ion 13
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:10.1787/fd5356d0-end3e2752
+SUMMARY:Can academic performance help disadvanta
+ ged students to achieve upward education
+ al mobility?
+DESCRIPTION:*Can academic performance help disadvant
+ aged students to achieve upward educatio
+ nal mobility?*\n\nDirectorate: Directora
+ te for Education and Skills\nLanguage: E
+ nglish\nDOI: https://doi.org/10.1787/fd5
+ 356d0-en\nPublication type: Working pape
+ r\nReleased as: PDF\n\nEmbargo date/time
+ : Tuesday, 27 August 2019, 3:00 (GMT)\n\
+ n\niLibrary export: Wednesday, 31 July 2
+ 019, 19:20 (GMT)\nFreepreview export: We
+ dnesday, 31 July 2019, 19:06 (GMT)\nOECD
+ .org export: never\nFTI loaded: ✓\n\nFor
+  more information see: https://github.co
+ m/oecd/embargo-calendar/blob/master/emba
+ rgoes-by-publication.md.\n\nPlease note:
+  This information was correct as of this
+  morning at 11:29, it is updated each ni
+ ght; therefore any subsequent updates ma
+ y not yet be visible here. Also, please 
+ be aware that the different released med
+ ia (PDF, HTML, etc.) are not necessarily
+  released at the same time. For complete
+  and up-to-date information see here: ht
+ tp://kappa.oecd.org/v3/search?term=fd535
+ 6d0-en.
+DTSTAMP:20190812T114729Z
+DTSTART:20190827T030000Z
+DTEND:20190827T031500Z
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-PT24H
+REPEAT:1
+DURATION:PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Can academic performance help 
+ disadvantaged students to achieve upward
+  educational mobility?
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:10.1787/c4d4f66a-end3e2859
+SUMMARY:Working Better With Age
+DESCRIPTION:*Working Better With Age*\n\nDirectorate
+ : Directorate for Employment, Labour and
+  Social Affairs\nLanguage: English\nDOI:
+  https://doi.org/10.1787/c4d4f66a-en\nPu
+ blication type: Book\nReleased as: Paper
+ back, PDF\n\nEmbargo date/time: Friday, 
+ 30 August 2019, 7:00 (GMT)\n\n\niLibrary
+  export: Monday, 5 August 2019, 19:18 (G
+ MT)\nFreepreview export: never\nOECD.org
+  export: Monday, 5 August 2019, 18:22 (G
+ MT)\nFTI loaded: ✗\n\nFor more informati
+ on see: https://github.com/oecd/embargo-
+ calendar/blob/master/embargoes-by-public
+ ation.md.\n\nPlease note: This informati
+ on was correct as of this morning at 11:
+ 29, it is updated each night; therefore 
+ any subsequent updates may not yet be vi
+ sible here. Also, please be aware that t
+ he different released media (PDF, HTML, 
+ etc.) are not necessarily released at th
+ e same time. For complete and up-to-date
+  information see here: http://kappa.oecd
+ .org/v3/search?term=c4d4f66a-en.
+DTSTAMP:20190812T114729Z
+DTSTART:20190830T070000Z
+DTEND:20190830T071500Z
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-PT48H
+REPEAT:1
+DURATION:PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Working Better With Age
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:10.1787/9789264305915-end3e4562
+SUMMARY:Government at a Glance Southeast Asia 20
+ 19
+DESCRIPTION:*Government at a Glance Southeast Asia 2
+ 019*\n\nDirectorate: Directorate for Pub
+ lic Governance\nLanguage: English\nDOI: 
+ https://doi.org/10.1787/9789264305915-en
+ \nPublication type: Stand-alone monograp
+ h\nReleased as: ePub, HTML, Paperback, P
+ DF\n\nEmbargo date/time: Tuesday, 10 Sep
+ tember 2019, 2:00 (GMT)\n\n\niLibrary ex
+ port: Friday, 9 August 2019, 19:19 (GMT)
+ \nFreepreview export: Monday, 5 August 2
+ 019, 19:02 (GMT)\nOECD.org export: Frida
+ y, 9 August 2019, 18:23 (GMT)\nFTI loade
+ d: ✓\n\nFor more information see: https:
+ //github.com/oecd/embargo-calendar/blob/
+ master/embargoes-by-publication.md.\n\nP
+ lease note: This information was correct
+  as of this morning at 11:29, it is upda
+ ted each night; therefore any subsequent
+  updates may not yet be visible here. Al
+ so, please be aware that the different r
+ eleased media (PDF, HTML, etc.) are not 
+ necessarily released at the same time. F
+ or complete and up-to-date information s
+ ee here: http://kappa.oecd.org/v3/search
+ ?term=9789264305915-en.
+DTSTAMP:20190812T114729Z
+DTSTART:20190910T020000Z
+DTEND:20190910T021500Z
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-PT24H
+REPEAT:1
+DURATION:PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Government at a Glance Southea
+ st Asia 2019
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:10.1787/f3d8ea10-end3e12360
+SUMMARY:Tax Morale - What Drives People and Busi
+ nesses to Pay Tax?
+DESCRIPTION:*Tax Morale - What Drives People and Bus
+ inesses to Pay Tax?*\n\nDirectorate: Cen
+ tre for Tax Policy and Administration\nL
+ anguage: English\nDOI: https://doi.org/1
+ 0.1787/f3d8ea10-en\nPublication type: St
+ and-alone monograph\nReleased as: Paperb
+ ack, PDF\n\nEmbargo date/time: Wednesday
+ , 11 September 2019, 9:00 (GMT)\n\n\niLi
+ brary export: Wednesday, 31 July 2019, 1
+ 9:20 (GMT)\nFreepreview export: never\nO
+ ECD.org export: Wednesday, 31 July 2019,
+  18:21 (GMT)\nFTI loaded: ✗\n\nFor more 
+ information see: https://github.com/oecd
+ /embargo-calendar/blob/master/embargoes-
+ by-publication.md.\n\nPlease note: This 
+ information was correct as of this morni
+ ng at 11:29, it is updated each night; t
+ herefore any subsequent updates may not 
+ yet be visible here. Also, please be awa
+ re that the different released media (PD
+ F, HTML, etc.) are not necessarily relea
+ sed at the same time. For complete and u
+ p-to-date information see here: http://k
+ appa.oecd.org/v3/search?term=f3d8ea10-en
+ .
+DTSTAMP:20190812T114729Z
+DTSTART:20190911T090000Z
+DTEND:20190911T091500Z
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-PT48H
+REPEAT:1
+DURATION:PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Tax Morale - What Drives Peopl
+ e and Businesses to Pay Tax?
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:10.1787/c9c4ec1d-end3e12469
+SUMMARY:Innovation, Productivity and Sustainabil
+ ity in Food and Agriculture - Main Findi
+ ngs from Country Reviews and Policy Less
+ ons
+DESCRIPTION:*Innovation, Productivity and Sustainabi
+ lity in Food and Agriculture - Main Find
+ ings from Country Reviews and Policy Les
+ sons*\n\nDirectorate: Trade and Agricult
+ ure Directorate\nLanguage: English\nDOI:
+  https://doi.org/10.1787/c9c4ec1d-en\nPu
+ blication type: Book\nReleased as: Paper
+ back, PDF\n\nEmbargo date/time: Thursday
+ , 26 September 2019, 8:00 (GMT)\n\n\niLi
+ brary export: Wednesday, 31 July 2019, 1
+ 9:20 (GMT)\nFreepreview export: never\nO
+ ECD.org export: Wednesday, 31 July 2019,
+  18:21 (GMT)\nFTI loaded: ✗\n\nFor more 
+ information see: https://github.com/oecd
+ /embargo-calendar/blob/master/embargoes-
+ by-publication.md.\n\nPlease note: This 
+ information was correct as of this morni
+ ng at 11:29, it is updated each night; t
+ herefore any subsequent updates may not 
+ yet be visible here. Also, please be awa
+ re that the different released media (PD
+ F, HTML, etc.) are not necessarily relea
+ sed at the same time. For complete and u
+ p-to-date information see here: http://k
+ appa.oecd.org/v3/search?term=c9c4ec1d-en
+ .
+DTSTAMP:20190812T114729Z
+DTSTART:20190926T080000Z
+DTEND:20190926T081500Z
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-PT48H
+REPEAT:1
+DURATION:PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Innovation, Productivity and S
+ ustainability in Food and Agriculture - 
+ Main Findings from Country Reviews and P
+ olicy Lessons
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:10.1787/830128c5-frd3e12630
+SUMMARY:Innovation, productivité et durabilité d
+ ans le secteur agricole et alimentaire -
+  Principales conclusions des examens par
+  pays et leçons pour l’action publique
+DESCRIPTION:*Innovation, productivité et durabilité 
+ dans le secteur agricole et alimentaire 
+ - Principales conclusions des examens pa
+ r pays et leçons pour l’action publique*
+ \n\nDirectorate: Trade and Agriculture D
+ irectorate\nLanguage: French\nDOI: https
+ ://doi.org/10.1787/830128c5-fr\nPublicat
+ ion type: Book\nReleased as: Paperback, 
+ PDF\n\nEmbargo date/time: Thursday, 26 S
+ eptember 2019, 8:00 (GMT)\n\n\niLibrary 
+ export: Wednesday, 31 July 2019, 19:20 (
+ GMT)\nFreepreview export: never\nOECD.or
+ g export: Wednesday, 31 July 2019, 18:21
+  (GMT)\nFTI loaded: ✗\n\nFor more inform
+ ation see: https://github.com/oecd/embar
+ go-calendar/blob/master/embargoes-by-pub
+ lication.md.\n\nPlease note: This inform
+ ation was correct as of this morning at 
+ 11:29, it is updated each night; therefo
+ re any subsequent updates may not yet be
+  visible here. Also, please be aware tha
+ t the different released media (PDF, HTM
+ L, etc.) are not necessarily released at
+  the same time. For complete and up-to-d
+ ate information see here: http://kappa.o
+ ecd.org/v3/search?term=830128c5-fr.
+DTSTAMP:20190812T114729Z
+DTSTART:20190926T080000Z
+DTEND:20190926T081500Z
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-PT48H
+REPEAT:1
+DURATION:PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Innovation, productivité et du
+ rabilité dans le secteur agricole et ali
+ mentaire - Principales conclusions des e
+ xamens par pays et leçons pour l’action 
+ publique
+END:VALARM
+END:VEVENT
+END:VCALENDAR
